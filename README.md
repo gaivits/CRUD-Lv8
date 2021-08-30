@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Cara Installasi
+
 
 Basic Create Update Delete Edit
 Run on http://127.0.0.1:8000/posts
